@@ -40,7 +40,7 @@
    &trans   &kp Q         &kp W        &kp E               &kp R       &kp T            &kp Y    &kp U        &kp I        &kp O         &kp P              &trans
    &trans   &lt LSHIFT A &lt LCTRL S &lt LGUI D         &lt LALT F &kp G            &kp H    &lt RALT J  &lt RGUI K  &lt RCTRL L  &lt RSHIFT SEMI   &trans
    &trans   &kp Z         &kp X        &kp C               &kp V       &kp B            &kp N    &kp M        &kp COMMA    &kp DOT       &kp FSLH           &trans
-                          &kp BSPC     &lt NUMBERS SPACE   &lt FUNCTIONS DELETE  &lt SYMBOL ESC  &lt NAVIGATION TAB      &kp ENTER
+                          &kp BSPC     &lt NUMBERS SPACE   &lt FUNCTIONS DELETE  &lt SYMBOLS ESC  &lt NAVIGATION TAB      &kp ENTER
                         >;
                 };
                 numbers_layer {
